@@ -18,7 +18,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/guamna/proprietary/recovery/root/vendor/firmware/ILITEK_FW_HLT.hex:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/ILITEK_FW_HLT.hex \
     vendor/motorola/guamna/proprietary/recovery/root/vendor/firmware/ILITEK_FW_TM.hex:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/ILITEK_FW_TM.hex \
     vendor/motorola/guamna/proprietary/recovery/root/vendor/firmware/NT36xxx_MP_Setting_Criteria_6020.csv:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/NT36xxx_MP_Setting_Criteria_6020.csv \
-    vendor/motorola/guamna/proprietary/recovery/root/vendor/firmware/focaltech-djn-ft8006s_aa-03-0000-guamna.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/focaltech-djn-ft8006s_aa-03-0000-guamna.bin \
+    vendor/motorola/guamna/proprietary/recovery/root/vendor/firmware/focaltech_ts_fw_djn.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/focaltech_ts_fw_djn.bin \
     vendor/motorola/guamna/proprietary/recovery/root/vendor/firmware/hlt_Himax_firmware.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/hlt_Himax_firmware.bin \
     vendor/motorola/guamna/proprietary/recovery/root/vendor/firmware/hlt_Himax_mpfw.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/hlt_Himax_mpfw.bin \
     vendor/motorola/guamna/proprietary/recovery/root/vendor/firmware/hlt_hx_criteria.csv:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/hlt_hx_criteria.csv \
@@ -107,7 +107,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/guamna/proprietary/vendor/firmware/a630_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a630_sqe.fw \
     vendor/motorola/guamna/proprietary/vendor/firmware/aw882xx_mono.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_mono.bin \
     vendor/motorola/guamna/proprietary/vendor/firmware/aw882xx_spk_reg.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_spk_reg.bin \
-    vendor/motorola/guamna/proprietary/vendor/firmware/focaltech-djn-ft8006s_aa-03-0000-guamna.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech-djn-ft8006s_aa-03-0000-guamna.bin \
+    vendor/motorola/guamna/proprietary/vendor/firmware/focaltech_ts_fw_djn.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ts_fw_djn.bin \
     vendor/motorola/guamna/proprietary/vendor/firmware/hlt_Himax_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/hlt_Himax_firmware.bin \
     vendor/motorola/guamna/proprietary/vendor/firmware/hlt_Himax_mpfw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/hlt_Himax_mpfw.bin \
     vendor/motorola/guamna/proprietary/vendor/firmware/hlt_hx_criteria.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/hlt_hx_criteria.csv \
